@@ -1,9 +1,9 @@
-# Asana RL Environment – High-Quality Seed Data Simulation
+# Asana RL Environment - High-Quality Seed Data Simulation
 
 This repository generates a **high-fidelity synthetic dataset** simulating a large enterprise Asana workspace.  
 The dataset is designed as **seed data for reinforcement learning (RL) environments**, enabling realistic evaluation and fine-tuning of computer-use AI agents on project management workflows.
 
-The project was developed as part of the **Scaler AI – Research Scientist Intern Take-Home Assignment**.
+The project was developed as part of the **Scaler AI - Research Scientist Intern Take-Home Assignment**.
 
 ---
 
