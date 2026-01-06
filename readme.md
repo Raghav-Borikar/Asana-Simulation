@@ -127,4 +127,4 @@ Disclaimer: All data is synthetic. No proprietary or private company data was us
 
 Raghav Borikar
 
-AI Scientist
+IIT Bhilai
