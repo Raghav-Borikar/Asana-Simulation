@@ -84,7 +84,11 @@ The SQLite database models core Asana entities in 3NF:
 - Custom Fields: EAV pattern (definitions and values).
 - Tags: Cross-project labels.
 
-Note: A visual Entity-Relationship Diagram (ERD) is provided in the accompanying Report.
+### Entity–Relationship Diagram
+
+![Entity–Relationship Diagram](docs/er_diagram.png)
+
+*Figure: Entity–Relationship Diagram of the Asana workspace schema, generated using dbdiagram.io.*
 
 ## Determinism & LLM Usage
 
