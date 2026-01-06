@@ -83,7 +83,7 @@ The SQLite database models core Asana entities in 3NF:
 - Comments: Activity logs.
 - Custom Fields: EAV pattern (definitions and values).
 - Tags: Cross-project labels.
-- 
+
 Note: A visual Entity-Relationship Diagram (ERD) is provided in the accompanying Report.
 
 ## Determinism & LLM Usage
@@ -120,5 +120,7 @@ Workflow automation benchmarking.
 Disclaimer: All data is synthetic. No proprietary or private company data was used. Naming patterns are inspired by public internet data only.
 
 ## Author
+
 Raghav Borikar
+
 AI Scientist
