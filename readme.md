@@ -86,7 +86,7 @@ The SQLite database models core Asana entities in 3NF:
 
 ### Entity–Relationship Diagram
 
-![Entity–Relationship Diagram](docs/er_diagram.png)
+![Entity–Relationship Diagram](docs/er_diagram.pdf)
 
 *Figure: Entity–Relationship Diagram of the Asana workspace schema, generated using dbdiagram.io.*
 
